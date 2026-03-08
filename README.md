@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Salut, moi c'est CocoTHM !
 
-<!--
-**CocoTHM/CocoTHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Passionné de Cybersécurité | 🦆 Amateur de Canards en Plastique
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil ! Je suis un passionné de sécurité informatique qui croit fermement qu'aucun bug ne résiste à une explication détaillée à un canard en plastique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Je m'intéresse particulièrement à : **La Cybersécurité et le Pentesting**
+- 🛠️ Langages maîtrisés : **Python, C++, SQL, HTML/CSS**
+
+### 🛠️ Ma Stack Technique
+
+#### 💻 Langages & Web
+![My Skills](https://skillicons.dev/icons?i=py,cpp,sql,html,css)
+
+#### 🛡️ Sécurité & Outils
+![Security Tools](https://skillicons.dev/icons?i=linux,kali,bash,git,vscode)
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+![CocoTHM's GitHub stats](https://github-readme-stats.vercel.app/api?username=CocoTHM&show_icons=true&theme=radical)
+
+---
+>“The rubber duck knows no frontier it doesn’t discriminate people and doesn’t have a political connotation."
