@@ -2,11 +2,11 @@
 
 ### 🛡️ Passionné de Cybersécurité | 🦆 Amateur de Canards en Plastique
 
-Bienvenue sur mon profil ! Je suis un passionné de sécurité informatique qui croit fermement qu'aucun bug ne résiste à une explication détaillée à un canard en plastique.
+Bienvenue sur mon profil ! Je suis un passionné de sécurité informatique et de dévellopement 
 
 - 🔍 Je m'intéresse particulièrement à : **La Cybersécurité et le Pentesting**
 - 🛠️ Langages maîtrisés : **Python, C++, SQL, HTML/CSS**
-
+  
 ### 🛠️ Ma Stack Technique
 
 #### 💻 Langages & Web
@@ -15,11 +15,9 @@ Bienvenue sur mon profil ! Je suis un passionné de sécurité informatique qui 
 #### 🛡️ Sécurité & Outils
 ![Security Tools](https://skillicons.dev/icons?i=linux,kali,bash,git,vscode)
 
----
+### 🚩 Mes Plateformes de CTF
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Coco125-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Coco125)
+[![Root-Me](https://img.shields.io/badge/Root--Me-coco-21232b?style=for-the-badge&logo=root-me&logoColor=white)](https://www.root-me.org/coco-942607?inc=info&lang=fr)
 
-### 📊 Mes Statistiques GitHub
-
-![CocoTHM's GitHub stats](https://github-readme-stats.vercel.app/api?username=CocoTHM&show_icons=true&theme=radical)
-
----
+Citation
 >“The rubber duck knows no frontier it doesn’t discriminate people and doesn’t have a political connotation."
