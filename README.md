@@ -6,17 +6,22 @@ Passionné de cybersécurité et de développement. Apprentissage continu, réso
 
 ### Langages & Environnement
 
-* **Langages :** Python, Java, C
-* **Systèmes :** Linux, Windows
-* **Domaines d'intérêt :** Cybersécurité, Scripting, Automatisation
+#### Langages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+#### Systèmes & Outils
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### Plateformes & Communautés
 
-* **TryHackMe :** [CocoTHM](https://tryhackme.com/p/CocoTHM)
-* **Root-Me :** [CocoTHM](https://www.root-me.org/CocoTHM)
-* **Discord :** `.cocothm` *(ou votre identifiant)*
+* **TryHackMe** : [CocoTHM](https://tryhackme.com/p/Coco125)
+* **Root-Me** : [CocoTHM](https://www.root-me.org/coco-942607?lang=fr#0eef7ea62f399e08c5f9794754296223)
+* **Discord** : `573748037903`
 
 ---
 
