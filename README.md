@@ -1,23 +1,28 @@
-# 👋 Salut, moi c'est CocoTHM !
+# CocoTHM
 
-### 🛡️ Passionné de Cybersécurité | 🦆 Amateur de Canards en Plastique
+Passionné de cybersécurité et de développement. Apprentissage continu, résolution de challenges (CTF) et création d'outils.
 
-Bienvenue sur mon profil ! Je suis un passionné de sécurité informatique et de dévellopement 
+---
 
-- 🔍 Je m'intéresse particulièrement à : **La Cybersécurité et le Pentesting**
-- 🛠️ Langages maîtrisés : **Python, C++, SQL, HTML/CSS**
-  
-### 🛠️ Ma Stack Technique
+### Langages & Environnement
 
-#### 💻 Langages & Web
-![My Skills](https://skillicons.dev/icons?i=py,cpp,sql,html,css)
+* **Langages :** Python, Java, C
+* **Systèmes :** Linux, Windows
+* **Domaines d'intérêt :** Cybersécurité, Scripting, Automatisation
 
-#### 🛡️ Sécurité & Outils
-![Security Tools](https://skillicons.dev/icons?i=linux,kali,bash,git,vscode)
+---
 
-### 🚩 Mes Plateformes de CTF
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Coco125-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Coco125)
-[![Root-Me](https://img.shields.io/badge/Root--Me-coco-21232b?style=for-the-badge&logo=root-me&logoColor=white)](https://www.root-me.org/coco-942607?inc=info&lang=fr)
+### Plateformes & Communautés
 
-Citation
->“The rubber duck knows no frontier it doesn’t discriminate people and doesn’t have a political connotation."
+* **TryHackMe :** [CocoTHM](https://tryhackme.com/p/CocoTHM)
+* **Root-Me :** [CocoTHM](https://www.root-me.org/CocoTHM)
+* **Discord :** `.cocothm` *(ou votre identifiant)*
+
+---
+
+### Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CocoTHM&show_icons=true&theme=dark&hide_border=true" height="150" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=CocoTHM&layout=compact&theme=dark&hide_border=true" height="150" alt="Langages principaux" />
+</p>
